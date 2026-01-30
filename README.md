@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shadow Show
+## Hi there 👋 I'm Stepan
 
 📱 Mobile Developer  
 🌐 Web Backend Developer  
