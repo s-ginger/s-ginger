@@ -29,20 +29,4 @@
 **Frontend:** JavaScript, TypeScript, HTML & CSS  
 **Tools:** Git & GitHub ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), REST APIs, Databases  
 
----
-
-### ⚡ Low-level & Systems Interests
-
-- C programming & system libraries ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-- Language parsers, interpreters, and compilers  
-- Working with low-level libraries and performance optimization  
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-ginger&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ginger&layout=compact&theme=tokyonight)
-
-
 
