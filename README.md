@@ -11,8 +11,6 @@
 - 🎨 Modern UI with **Jetpack Compose** ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)  
 - 🚀 Cross-platform apps using **Flutter** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
-I enjoy creating smooth, responsive mobile apps with clean architecture and solid performance.
-
 ---
 
 ### 🌍 Web Development
@@ -21,7 +19,6 @@ I enjoy creating smooth, responsive mobile apps with clean architecture and soli
 - ⚙️ Building fast APIs using **Go** ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 - 🌐 Frontend development with **JavaScript & TypeScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-I focus on writing reliable backend logic and building APIs that power real applications.
 
 ---
 
